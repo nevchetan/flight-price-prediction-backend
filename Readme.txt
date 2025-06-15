@@ -14,3 +14,7 @@ Install all Python dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+The backend is live on render and the request from the frontend is fetched and response is send.
+
+Visit- https://flight-price-prediction-frontend-liard.vercel.app/
